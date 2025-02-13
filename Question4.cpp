@@ -53,7 +53,7 @@ public:
 
 int main() 
 {
-    Book book1("The RAMAYANA", "RISHI VALMIKI", "100000001");
+    Book book1("Atomic Habits", "James Clear", "100000001");
 
     book1.displayBook();
     book1.borrowBook();
