@@ -19,7 +19,7 @@ class Student
 
 int main() 
 {
-    Student student1("Shyam",9922);
+    Student student1("Suhani: ",34975);
 
     cout<< "Student Name: " << student1.name<<endl;
     cout<< "Student ID: " << student1.getId();
